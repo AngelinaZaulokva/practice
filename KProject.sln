@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KProject", "KProject.csproj", "{53899F5A-C18C-4F85-8D7D-83F7E0FAC8AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{1336D421-67E4-48C6-8686-107F8C02A9F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53899F5A-C18C-4F85-8D7D-83F7E0FAC8AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53899F5A-C18C-4F85-8D7D-83F7E0FAC8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53899F5A-C18C-4F85-8D7D-83F7E0FAC8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53899F5A-C18C-4F85-8D7D-83F7E0FAC8AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {164AB9B5-DDF6-4080-ADD9-F505815960E1}
+	EndGlobalSection
+EndGlobal

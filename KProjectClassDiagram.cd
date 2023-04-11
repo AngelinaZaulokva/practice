@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KPoject.AboutProgramForm">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAQAAAAAAAIAAAAAAAAg=</HashCode>
+      <FileName>AboutProgramForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KPoject.ChoiceTestForm">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAQgACAAAACAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChoiceTestForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KPoject.MenuForm">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAIAAAQACAAAAAAACCgAAAGAAAAAAAAAAQAAABAAAE=</HashCode>
+      <FileName>MenuForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KPoject.Program" Collapsed="true">
+    <Position X="2" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KPoject.TeoryForm">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>oAAABCAQIKABgIAAACCAEAAGEYAAAAAAAoIQgAAAADg=</HashCode>
+      <FileName>TeoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KPoject.TestForm">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="KPoject.TestForm.Tests" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TestForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="KPoject.TestForm.Test" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TestForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="KPoject.TestForm.Question" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TestForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQJABoAAigAARUABCCAAAACBAAAAAEAIACxAAAAEAI=</HashCode>
+      <FileName>TestForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KPoject.Properties.Resources" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KPoject.Properties.Settings" Collapsed="true">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
